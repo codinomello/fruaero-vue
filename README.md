@@ -1,5 +1,5 @@
 # fruaero-vue
-🫧 fruaero-vue - calculadora de notas de vestibulares e concursos no estilo frutiger aero
+🫧 fruaero-vue: calculadora de notas de vestibulares e concursos no estilo frutiger aero
 
 App em **Vue 3.5** (Composition API + `<script setup>`) com **Vite 8**, **Vue Router 5** e **Tailwind CSS v4**, no estilo visual **Frutiger Aero**.
 
